@@ -1,6 +1,6 @@
 
-# 李明博 · 思维操作系统 (Lee Myung-bak Perspective)
-
+# 李明博 · 思维智能体 (Lee Myung-bak Perspective)
+![李明博](assets/portrait.gif)
 > **「没有神话。所有的一切都是努力的成果，并非免费的午餐。」**
 > **「我是国家的经营者，不是统治者。」**
 
